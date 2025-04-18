@@ -1,0 +1,12 @@
+[2025-04-15 18:05:38] Lottery registration started.
+[2025-04-15 18:06:17] Registered: alice
+[2025-04-15 18:06:23] Registered: bob
+[2025-04-15 18:06:49] Registered: charlie
+[2025-04-15 18:06:56] Registered: dave
+[2025-04-15 18:06:59] Registered: eve
+[2025-04-15 18:07:30] Registered: ram
+[2025-04-15 18:07:36] Registered: mohan
+[2025-04-15 18:32:51] Registered: rohan
+[2025-04-15 19:07:38] Registered: sohan
+[2025-04-15 19:07:38] Total Participants: 9
+[2025-04-15 19:07:38] Winner: charlie
